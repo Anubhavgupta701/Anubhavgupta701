@@ -1,5 +1,6 @@
  
-Backend-focused developer with experience in building secure and scalable web applications using Node.js and MongoDB. Skilled in REST API design, authentication systems (JWT, refresh tokens, OTP), and backend architecture.
+Backend-focused developer with experience in building scalable and secure web applications using Node.js, Express, and MongoDB. Skilled in designing RESTful APIs, implementing robust authentication systems using JWT (access & refresh tokens) and email-based OTP verification, and managing database-driven applications.
+Also experienced in full-stack development using React, with a focus on building responsive user interfaces and integrating frontend with backend services. Actively improving problem-solving skills through data structures and algorithms, with a strong interest in backend architecture and system design.
 
 
 ## 🌐 Socials:
