@@ -1,6 +1,13 @@
 # 💫 About Me:
-I’m currently working on<br>Full-Stack Web Development Projects<br>DSA & Problem Solving<br>Modern Dashboard UI/UX Development<br>Backend APIs & Real-Time Applications<br><br>🤝 I’m looking to collaborate on<br>Open Source Projects<br>Full-Stack Web Apps<br>Developer Communities & Hackathons<br>Creative Tech Projects<br><br>🆘 I’m looking for help with<br>Advanced DSA<br>System Design<br>Backend Optimization<br>Clean Scalable Architecture<br><br>🌱 I’m currently learning<br>Data Structures & Algorithms<br>MERN Stack<br>System Design<br>GATE Preparation (Mining Engineering)<br>Advanced React Patterns<br><br>💬 Ask me about<br>React, Tailwind & Vite<br>Node.js & Express<br>DSA & Coding Practice<br>Frontend Design Systems<br>Balancing Engineering + Coding<br><br>⚡ Fun fact<br>I debug faster after midnight than during the day.
+🔨 Building Full-Stack Web Applications & Modern UI Dashboards
 
+🤝 Open to collaborating on Open Source, Full-Stack Projects & Hackathons
+
+🌱 Currently learning DSA, MERN Stack, System Design & Advanced React
+
+💬 Ask me about React, Tailwind, Node.js, Express & Problem Solving
+
+⚡ Fun fact: Most of my bugs get fixed after midnight.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anubhav-gupta-134091350?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:officialag701@gmail.com) 
